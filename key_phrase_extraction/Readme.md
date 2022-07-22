@@ -1,4 +1,4 @@
-# Key Phrase Extraction Using BERT
+# Key Phrase Extraction Using Transformer
 ## Steps for key phrase extraction
   - Selection of text embedding Model
   - Candidate key phrase extraction using n-grams and TextRank algorithm
