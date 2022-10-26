@@ -16,7 +16,7 @@ By-default it fetches 1200 reviews and it is possible to mention the language an
 ```sh
 info = app(ap, lang='en', country='us')
 ```
-You can also sort the reviews by specifying different parameters used by Google Playstore like MOST_RELEVANT, NEWEST etc. See the code block 11
+You can also sort the reviews by specifying different parameters used by Google Playstore like MOST_RELEVANT, NEWEST etc. See the code block 11 in _App_ReviewExtraction.ipynb_ file).
 ```sh
 for sort_order in [Sort.MOST_RELEVANT, Sort.NEWEST]:
 ```
