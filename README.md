@@ -2,8 +2,10 @@
 ## _The framework for analyzing app reviews and finds possible updates or upgrades towards App maintenance_
 ## Features
 
+- GPT-3 based efficient review summarizer.
 - Key phrase extraction approach, based on BERT sentence encoder, trained on app review datasets.
 - Zero-shot classifier for topic recognition of app reviews. 
+- Semantic search based mappping mechanism to map reviews to specific app feature which needs the immediate attention.
 - A comprehensive end-to-end recommendation framework that combines sentiment analysis, key phrase extraction, and topic recognition to suggest relevant features for upcoming releases of the app.
 
 ## Instructions to run the codes
