@@ -6,7 +6,7 @@
 - Zero-shot classifier for topic recognition of app reviews. 
 - A comprehensive end-to-end recommendation framework that combines sentiment analysis, key phrase extraction, and topic recognition to suggest relevant features for upcoming releases of the app.
 
-## Instruction to run the codes
+## Instructions to run the codes
  - Download each jupyter notebook file.
  - Open these files using jupyter notebook or Google Colab.
  - Run all the cells and follow the outputs for each cell.
